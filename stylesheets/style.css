@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'NunitoRegular';
+  src: url('../fonts/Nunito-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'KeaniaOne-Regular';
+  src: url('../fonts/KeaniaOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Monda-Regular';
+  src: url('../fonts/Monda-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Monda-Bold';
+  src: url('../fonts/Monda-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PaytoneOne';
+  src: url('../fonts/PaytoneOne.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UnicaOne-Regular';
+  src: url('../fonts/UnicaOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.nav-menu-list li {
+	border: none;
+	font: 16pt 'Monda-Bold';
+}
+
+.nav-menu-list li:hover {
+	color: white;
+	background: #003010;
+}
+
+.timestamp {
+	font-size: 7.5pt;
+	font-style: italic;
+}
+
+#content h1
+{
+	color: #004020;
+	font: 32px 'PaytoneOne';
+}
+
+#content-body,
+#forgot-prompt
+{
+	color: #004020;
+	margin-left: 5px;
+	margin-right: 20px;
+	font: 14pt 'Monda-Regular';
+	transition: opacity 500ms;
+	-webkit-transition: opacity 500ms;
+	-moz-transition: opacity 500ms;
+	-o-transition: opacity 500ms;
+}
+
+#header
+{
+	color: black;
+	text-align: center;
+	width: 100%;
+}
+
+#banner-text
+{
+	font: 60px 'KeaniaOne-Regular';
+	opacity:0.8;
+}
+
+#loginwrapper {
+	opacity: 0;
+	display: none;
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	background-color: white;
+}
+
+#logout-button {
+	font: 12pt 'Monda-Regular';
+}
+
+#logout-button a {
+	text-decoration: none;
+	color: white;
+}
+
+#welcome-bar {
+	color: white;
+	font: 12pt 'Monda-Regular';
+	line-height: 25px;
+}
+
+#login-button {
+	font: 12pt 'Monda-Regular';
+}
+
+#register-button {
+	font: 12pt 'Monda-Regular';
+}
+
+.red-background {
+	background-color: red !important; 	
+}
+
+#login-dialog,
+#register-dialog {
+	background: white;
+	border-radius: 10px;
+	color: black;
+	opacity: 1;
+	box-shadow: 0px 0px 10px #222222;
+	transition: top 300ms;
+	-webkit-transition: top 300ms;
+	-moz-transition: top 300ms;
+	-o-transition: top 300ms;
+	font: 14pt 'Monda-Regular';
+}
+
+
+#login-dialog input[type="text"],
+#login-dialog input[type="password"],
+#register-dialog input[type="text"],
+#register-dialog input[type="password"],
+#forgot-email
+{
+  position: relative;
+  width: 80%;
+  height: auto;
+  font: 12pt 'Monda-Regular';
+
+  padding: 4px 6px 4px 6px;
+  margin-bottom: 10px;
+  line-height: 20px;
+  color: #555555;
+  vertical-align: middle;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+}
+
+#login-dialog input[type="text"]:focus,
+#login-dialog input[type="password"]:focus,
+#register-dialog input[type="text"]:focus,
+#register-dialog input[type="password"]:focus,
+#forgot-email:focus
+{
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+
+  -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+  -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+  -o-transition: border linear 0.2s, box-shadow linear 0.2s;
+  transition: border linear 0.2s, box-shadow linear 0.2s;
+
+  border-color: rgba(82, 168, 236, 0.8);
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+}
+
+#login-dialog input[type="submit"],
+#register-dialog input[type="submit"],
+#forgot-submit
+{
+  display: inline-block;
+  *display: inline;
+  width: 85%;
+  padding: 8px 12px;
+  margin-bottom: 20px;
+  *margin-left: .3em;
+  font: 12pt 'Monda-Regular';
+  line-height: 20px;
+  color: #333333;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  vertical-align: middle;
+  cursor: pointer;
+  background-color: #f5f5f5;
+  *background-color: #e6e6e6;
+  background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  background-repeat: repeat-x;
+  border: 1px solid #bbbbbb;
+  *border: 0;
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  border-bottom-color: #a2a2a2;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+#login-dialog input[type="submit"]:hover,
+#register-dialog input[type="submit"]:hover,
+#forgot-submit:hover
+{
+ color: #333333;
+  text-decoration: none;
+  background-position: 0 -15px;
+  background-color: #e6e6e6;
+  -webkit-transition: background-position 0.1s linear;
+     -moz-transition: background-position 0.1s linear;
+       -o-transition: background-position 0.1s linear;
+          transition: background-position 0.1s linear;
+}
+
+.validationerror {
+	background-color: #FFDDD0 !important;
+}
+
+#register-login-text {
+	text-align: center;
+	color: #004020;
+	font: 14pt 'Monda-Regular';
+}

@@ -1,0 +1,187 @@
+html, body, #container{
+	height: 100%;
+}
+
+#container {
+	min-width: 1200px;
+}
+
+#header {
+	height: 100px;
+	position: relative;
+}
+
+#banner-text {
+	position: absolute;
+	width: 100%;
+	top: 25%;
+}
+
+#logout-button a {
+	top: 30px;
+	position: absolute;
+	height: 32px;
+	width: 80px;
+	right: 20px;
+	background: url('images/signout.png') no-repeat;
+	background-position: 25px 0px;
+	opacity: 0.7;
+	padding-top: 25px;
+}
+
+#logout-button a:hover {
+	opacity: 1;
+}
+
+#welcome-bar {
+	top: 30px;
+	opacity: 0.7;
+	position: absolute;
+	text-align: right;
+	right: 120px;
+	line-height: 25px;
+}
+
+#welcome-bar:hover {
+	opacity: 1;
+}
+
+#login-button {
+	top: 30px;
+	position: absolute;
+	height: 32px;
+	width: 80px;
+	right: 20px;
+	background: url('images/signin.png') no-repeat;
+	background-position: 25px 0px;
+	opacity: 0.7;
+	padding-top: 25px;
+}
+
+#login-button:hover {
+	opacity: 1;
+	cursor: pointer;
+}
+
+#register-button {
+	top: 30px;
+	position: absolute;
+	height: 32px;
+	width: 80px;
+	right: 100px;
+	background: url('images/user.png') no-repeat;
+	background-position: 25px 0px;
+	opacity: 0.7;
+	padding-top: 25px;
+}
+
+#register-button:hover {
+	opacity: 1;
+	cursor: pointer;
+}
+
+#loginwrapper {
+	z-index: 9;
+}
+
+#register-dialog {
+	display: none;
+	width: 300px;
+	top: -600px;
+	right: 20px;
+	position: fixed;
+	z-index: 10;
+	padding: 20px 20px 20px 20px;
+}
+
+#login-dialog {
+	display: none;
+	width: 300px;
+	top: -300px;
+	right: 20px;
+	position: fixed;
+	z-index: 10;
+	padding: 20px 20px 20px 20px;
+}
+
+#login-dialog div {
+	position: relative;
+	width: 100%;
+}
+
+#content {
+	width: 100%;
+	height: 100%;
+	padding-right: 20px;
+}
+
+#content-body-wrapper {
+	height: 350px;
+	overflow-y: auto;
+}
+
+#nav-menu {
+	width: 375px;
+	margin-left: -105%;
+	right: 375px;
+	height: 400px;
+}
+
+* html #nav-menu {					/* This is a hack for IE6, just remember that the offset is the
+															 size of the right-notification-widget */
+	left: 350px;
+}
+
+.nav-menu-list {
+	position: relative;
+	top: 50%;
+	left: 50%;
+}
+
+.nav-menu-list li{
+	margin-left: -63px;				/* Magnitude should be equal to radius of node */
+	margin-top: -63px;
+	cursor: pointer;
+}
+
+.map {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+}
+
+#register-login-text-wrapper {
+	position: absolute;
+	width: 700px;
+	top: 30%;
+	left: 50%;
+	margin-left: -350px;
+}
+
+#forgot-form {
+	position: absolute;
+	width: 700px;
+	top: 30%;
+	left: 50%;
+	text-align: center;
+	margin-left: -350px;
+}
+
+#forgot-form form {
+	position: relative;
+	text-align: center;
+}
+
+#forgot-submit {
+	width: 300px !important;
+}
+
+#forgot-prompt {
+	padding-bottom: 20px;
+}
+
+#forgot-email {
+	margin-left: 12px;
+	margin-right: 12px;
+	width: 288px !important;
+}

@@ -1,0 +1,166 @@
+{
+  "mukti": {
+    "heading": "Mukti",
+    "content": "<br/ >Welcome to Mukti'13, the annual national level technical symposium on Free and Open Source Software of the GNU/Linux Users' Group NIT Durgapur to be held from 2nd-5th February 2013</p>"
+  },
+
+  "about": {
+    "heading": "About",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "events": {
+    "heading": "Events",
+    "content": "<br /><p>Whether you are technically inclined or don't mind learning some cool stuff while having fun, we've got an array of events lined up to make sure you have a gala time at the fest, and hopefully end up with some cool prizes up for grabs !!!</p>"
+  },
+
+  "workshops": {
+    "heading": "Workshops",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "sponsors": {
+    "heading": "Sponsors",
+    "content": "<div class=\"logo-wrapper\"><a href=\"http://www.ungineering.com\" target=\"_blank\"><div id=\"ungineering\"></div></a></div><br /><p>Online Media Partner</p><div class=\"logo-wrapper\"><a href=\"http://www.knowafest.com\" target=\"_blank\"><div id=\"knowafest\"></div></a></div>"
+  },
+
+  "contact": {
+    "heading": "Contact",
+    "content": ""
+  },
+
+  "register": {
+    "heading": "Register",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "schedule": {
+    "heading": "Schedule",
+    "content": "<p>To be updated shortly</p>"
+  },
+
+  "about-mukti": {
+    "heading": "About Mukti",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+	},
+
+  "about-lug": {
+    "heading": "About LUG",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "team-mukti": {
+    "heading": "Team Mukti",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "technical-events": {
+    "heading": "Technical",
+    "content": "<br /><p>From cracking the logic to engaging coding problems to server configuration to hacking software, these tech events will give you a flavour of what it's like to be a software developer.</p>"
+  },
+
+  "non-technical-events": {
+    "heading": "Fun",
+    "content": "<br /><p>You don't need to be a great programmer to have fun. These events prove why !!!</p><p>And who knows, you might walk away as the champion and with a heavier pocket, all at the cost of having fun. Now that doesn't seem like a bad deal after all, does it !</p>"
+  },
+
+  "online-events": {
+    "heading": "Online Events",
+    "content": ""
+  },
+
+  "python": {
+    "heading": "Python",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "web-security": {
+    "heading": "Web Security",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "mediawiki": {
+    "heading": "MediaWiki Hackathon",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "current-past-sponsors": {
+    "heading": "Our Sponsors",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "sponsor-us": {
+    "heading": "Sponsor Us",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "contact-us": {
+    "heading": "Contact Us",
+      "content": "<table><tr><td class=\"contact-left-column\"><div><p>Tirtha Chatterjee</p><p>President, GLUG</p><p>9674681233</p><p>tirtha@mkti.in</p></div></td><td class=\"contact-right-column\"><div><p>Jasneet Singh Bhatti</p><p>Convenor, Mukti'13</p><p>9564896594</p><p>jasneet@mkti.in</p></div></td></tr><tr><td class=\"contact-left-column\"><div><p>Rajarshi Sahani</p><p>Vice President, GLUG</p><p>9775390755</p><p>rajarshi@mkti.in</p></div></td><td class=\"contact-right-column\"><div><p>Saurabh Araiyer</p><p>General Secretary, GLUG</p><p>9002948106</p><p>saurabh@mkti.in</p></div></td></tr><tr><td class=\"contact-left-column\"><div><p>Gaurav Khetan</p><p>Resource Management</p><p> and Publicity Head, GLUG</p><p>9432969266</p><p>gaurav@mkti.in</p></div></td></tr></table>"},
+
+  "reach-us": {
+    "heading": "Reach Us",
+    "content": "<div class=\"map\"><iframe width=\"300\" height=\"300\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=nit+durgapur&amp;sll=24.372814,87.850498&amp;sspn=6.141886,9.162598&amp;ie=UTF8&amp;hq=nit+durgapur&amp;t=m&amp;ll=23.547543,87.291527&amp;spn=0.023605,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed\"></iframe><br /><small><a href=\"https://maps.google.co.in/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=nit+durgapur&amp;sll=24.372814,87.850498&amp;sspn=6.141886,9.162598&amp;ie=UTF8&amp;hq=nit+durgapur&amp;t=m&amp;ll=23.547543,87.291527&amp;spn=0.023605,0.025749&amp;z=14&amp;iwloc=A\" style=\"text-decoration:none;color:inherit;text-align:left\" target=\"_blank\">View Larger Map</a></small></div><div class=\"map\" id=\"college-address\"><p>We're at:</p><p>National Institute of Technology Durgapur</p><p>Mahatma Gandhi Avenue</p><p>Durgapur<p>West Bengal - 713209</p></div>"
+  },
+
+  "brainmesh": {
+    "heading": "Brainmesh",
+    "content": "<p>Sponsored by <a href=\"http://www.facebook.com/Ungineering\" style=\"text-decoration:none;color:inherit\" target=\"_blank\">Ungineering</a><p><br />2012 ended with quite a bang, and while the world didn’t end quite as we had expected, we got to see so many awesome apps and softwares come to fruition this year.</p><br /><p>Come 2013, everyone wants to build that absolutely awesome piece of software. BrainMesh, presented in association with Ungineering, aims to provide a platform for all those of you.</p><br /><p>The rules are simple:</p><p>1. Form a Team of Two and develop any web-based application which can be used by humans. The application could be for Facebook, Android or any other platform which you may deem fit.</p><p>2. Teams shall be required to provide a document explaining the deployment process, working demonstration and the code of the application.</p><p>3. Judging shall be done on the basis of technical quality and convenience of use by a layman.</p><br /><p>Example of an application - A car game, where the player uses his finger (if Android touch) or mouse/keyboard to navigate on a road which has obstacles.</p><br /><p>The last day for submission is 30th Jan'13.</p><p>Submit your apps at <a href=\"mailto:brainmesh@mkti.in\" style=\"text-decoration:underline;color:inherit\">brainmesh@mkti.in</a></p><br /><p>Contact:</p><p>Tirtha &#160;9635640273</p><p>Sneha &#160;9832500904</p>"
+  },
+
+  "bts": {
+    "heading": "Behind The Scene",
+    "content": "<br /><p>What do you need to write a piece of code ?<p>Inputs...Outputs...We give you both and also the freedom to think and express.</p><br /><p>What do we need ? Just the use of your parietal lobe to crack the LOGIC that unravels the path leading from the INPUTS to the OUTPUTS.</p><br /><p>So get ready to rattle up your analytical skills and become the 'scene' stealer.</p><br /><p>Contact:</p><p>Anish &#160;&#160;&#160;&#160;&#160;&#160;7384685448</p><p>Toshika &#160;&#160;7679986039</p><p>Subham &#160;9002001186</p>"
+  },
+
+  "htc": {
+    "heading": "Hack The Code",
+    "content": "<br /><p>\"I get hired by companies to hack into their systems and break into their physical facilities to find security holes. Our success rate is 100%; we've always found a hole !\" - Kevin Mitnick</p><br /><p>Is it your forte to exalt every piece of code to perfection?</p><p>Then here is your chance to cultivate your niche.</p><br /><p>Mukti ‘13 rolls out the ultimate bug-buster!</p><br /><p>Challenge your programming acumen to debug the given code or rewrite it to meet the specifications.</p><br /><p>Rules and regulations :</p><p>1. The contestants will be provided with simple codes, the marking being in sync with the difficulty level.</p><p>2. Each code has some specifications, whether it has to be made bugfree or rewritten so as to implement any new functionality or to make any changes so that its current functionality remains unchanged.</p><p>3. The new codes will be judged on the basis of them abiding by the specified requirements, simplicity and readability. Plus, any changes made to the functionality of the code will lead to disqualification of the entire code, and will not be counted.</p><p>4. The marks obtained by the participant will be the total of the marks of the codes he/she has debugged or solved.</p><p>5. There is no limit to the number of submissions, but they must be completed within the time allotted. Any submission thereafter will not be entertained.</p><br /><p>Contact:</p><p>Subham &#160;&#160;&#160;&#160;&#160;&#160;&#160;8293576114</p><p>Tannishtha &#160;&#160;7679510920</p><p>Amit &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9046681873</p>"
+  },
+
+  "konfigure": {
+    "heading": "Konfigure",
+    "content": "<br /><p>Do you love showing-off your troubleshooting skills to your friends?</p><p> Do you take pride when you see people come running requesting you to fix their system crashes ?</p><p>It’s time you pit your skills against a real challenge and take them to the next level.</p><br /><p> It’s time to fix a server now. It’s time to Konfigure.</p><br /><p>Contact:</p><p>Arjun &#160;&#160;&#160;&#160;&#160;&#160;9749954761</p><p>Garima &#160;&#160;&#160;8820211761</p>"
+  },
+
+  "incanity": {
+    "heading": "InCanity",
+    "content": "<br /><p>Correct logic? Check! &#160;&#160;Proper Code? Check! &#160;&#160;Ambiguity ???</p><br /><p>Welcome to the world of C language.</p><p>The only way to survive is to 'C' through the code before it drives you insane !</p><br /><p>Rules:</p><p>1. The contest will be conducted in 2 rounds, viz. the Prelims and the Final.</p><p>2. A maximum of 3 participants per team is allowed.</p><p>3. The Prelims will comprise of 30 objective (MCQs and short answer type) questions.</p><p>4. The qualifying teams will be allowed to compete in the Finals.</p><p>5. For the Final Round, each team will be provided with a GNU/Linux machine.</p><p>6. The Final Round will consist of five programming problems which will have to be solved within a stipulated time.</p><br /><p>Contact:</p><p>Shashwat &#160;9874587005</p><p>Anuj &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;8927052427</p>"
+  },
+
+  "lipi": {
+    "heading": "Lipi",
+    "content": "<br /><p>The flagship translation event of MUKTI’13, Lipi is back!</p><br /><p>You'll be given strings from the documentation of a free and open source software. All you have to do is translate the given string into Hindi or Bengali. Your translations will then be judged by a reputed FOSS language translator in both the languages and the winners will adjudged accordingly.</p><br /><p>Your contribution goes into the development of the software without you even having to write a single line of code. So come, and be a part of this exciting contribution fiesta of the FOSS community !</p><br /><p>Contact:</p><p>Jeet &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9475201787</p><p>Siddhant &#160;9681939126</p>"
+  },
+
+  "imagimp": {
+    "heading": "ImaGIMP",
+    "content": "<br /><p>Do you love to sit back and doodle in class behind the professor’s back? </p><br /><p>Now give wings to your imagination as we bring you a platform where your drawings will not just fetch you appreciation but also prizes.</p><br /><p>Get. Set. Sketch !!!</p><br /><p>Contact:</p><p>Tejender &#160;&#160;8110293355</p><p>Saurav &#160;&#160;&#160;&#160;&#160;9831014219</p>"
+  },
+
+  "codecracker": {
+    "heading": "Codecracker",
+    "content": "<p>It's hard for <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> to type without fingers. So please come back after some time, while we ask him to hurry up ;)</p>"
+  },
+
+  "oth": {
+    "heading": "Online Treasure Hunt",
+    "content": "<br /><p>The exhilaration is back ! Gear up as we take you for a ride back to the Indian freedom struggle and the quest for 'mukti', to the conspiracies and adventures of an era we remember only in history books.</p><br /><p>Come with us, and unravel the secret treasure hidden somewhere in India for over half a century. The hunt is On !</p><br /><p>Log in to <a href=\"http://treasurehunt.mkti.in\" target=\"_blank\">treasurehunt.mkti.in</a> at 8 pm this Republic Day to join the hunt. May the Source be with you !</p><br /><p>Contact:</p><p>Tirtha &#160;&#160;&#160;&#160;&#160;&#160;9635640273</p><p>Rajarshi &#160;&#160;9775390755</p>"
+  },
+
+  "freepl": {
+    "heading": "FreePL",
+    "content": "<p>Go Online... Be a Pro Selector!!</p><p><a href=\"http://freepl.mkti.in\" target=\"_blank\">freepl.mkti.in</a></p><br /><p>Is Cricket a religion for you ?? Do you consider yourself a cricket guru ?? Do you have it in you to pick that star team before which every other team shall bow ??</p><br /><p>If any of the above answers is YES, then this year, MUKTI presents before you, FreePL.<p>It’s a test of your cricketing prowess. This is the time to prove your mettle as a selector.</p><br />So bring out the “super selector” in you and build the best team on the cricketing circuit who you think will bring you victory, irrespective of foreign and domestic barriers.</p><br /><p>Every passion has its destiny. Come meet yours !!!</p><br /><p>Contact:</p><p>Arjun &#160;&#160;&#160;&#160;&#160;9749954761</p><p>Priyam &#160;&#160;9674681233</p>"
+  },
+
+  "freemex": {
+    "heading": "Freemex",
+    "content": "<a href=\"http://freemex.mkti.in\" target=\"_blank\">freemex.mkti.in</a><br /><br /><p>Leave the Bull and the Bear behind because the <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> is here to take you to stock market nirvana. Here the <a style=\"text-decoration:none;color:inherit\" href=\"http://en.wikipedia.org/wiki/Tux\">Tux</a> replaces the Bull and there are no bears because you never lose in the free market.</p><br /><p>The name says it all, free as in free of cost, free as in FOSS and free as in the stock market of FOSS. This online trading stock game lets you be your corporate best and hoard FOSS shares for glory!</p><br /><p>Come home to the world of this rare programming genii where you juggle FREELY with shares and lose nothing or all !!!</p><br /><p>Contact:</p><p>Anuj &#160;&#160;&#160;&#160;&#160;&#160;&#160;8927052427</p><p>Ayush &#160;&#160;&#160;&#160;7679604990</p><p>Shouvik &#160;9038444475</p>"
+  },
+
+  "footballpl": {
+    "heading": "Football PL",
+    "content": "<br /><p>Are you a football fanatic ?? Do you eat, sleep and dream football ?? Bob Marley said “FOOTBALL IS FREEDOM”. Do you feel the same??</p><br /><p>Well, the wait is finally over. MUKTI’13 presents FootballPL, the ultimate platform to prove your expertise as a football team manager. Prove your mettle and exalt your team to victory.</p><br /><p>So, come, pick your squad, fight your way through all odds and emerge as the ultimate winner.</p><br /><p>Contact:</p><p>Anurag &#160;9932862135</p><p>Debjit &#160;&#160;&#160;7384876870</p>"
+  }
+}
+
