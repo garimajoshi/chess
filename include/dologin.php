@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="../stylesheets/style.css">
 	<link rel="icon" href="../favicon.ico">
     <style>
-		body {background-image:url('./Chess1.jpg');}
+		body {background-image:url('./chess.jpg');}
 	</style>
   	
 </head>
@@ -32,16 +32,16 @@
 			$count = mysql_num_rows($result);
 			if($count == 0)
 			{
-				$myname = addslashes($_POST['username']);
+				$myusername = addslashes($_POST['username']);
 				$mypassword = addslashes($_POST['password']);
 				$mypassword = md5($mypassword);
 				$confirmationcode = MakeConfirmationMd5($myemailid);
-				mysql_query("INSERT INTO registered_users(email_id, username, password, confirmation_code) VALUES('$myemailid', '$myusername', '$mycollege', '$mypassword', '$confirmationcode')") or die(mysql_error());
-
+				mysql_query("INSERT INTO registered_users(email_id, username, password, confirmation_code) VALUES('$myemailid', '$myusername', '$mypassword', '$confirmationcode')") or die(mysql_error());
+/*
 				// registered successfully
 				SendUserConfirmationEmail($myemailid, $myusername, $confirmationcode);
 				$message = "<div id=\"register-login-text\"><p>You have registered successfully. Please check your mail for the activation link.</p><p>In case you don't receive the mail, contact us at <a href=\"mailto:gjoshi0311@gmail.com\" text-decoration:none>gjoshi0311@gmail.com</a>.</p><br /><br /><p>This page will automatically redirect to the <a href=\"../index.php\" >Home page</a> in <span id=\"timer\">15 seconds<span></p></div>";
-				echo $message;
+				echo $message;*/
 			}
 			else
 			{
@@ -55,7 +55,8 @@
 			$myemailid = addslashes($_POST['email']);
 			$mypassword = addslashes($_POST['password']);
 			$mypassword = md5($mypassword);
-			$sql = "SELECT email_id, name, id FROM registered_users WHERE email_id='$myemailid' and password='$mypassword' and confirmation_code='y'";
+			//$sql = "SELECT email_id, username FROM registered_users WHERE email_id='$myemailid' and password='$mypassword' and confirmation_code='y'";
+			$sql = "SELECT email_id, username FROM registered_users WHERE email_id='$myemailid' and password='$mypassword' ";
 			$result = mysql_query($sql) or die(mysql_error());
 			$row = mysql_fetch_array($result);
 			$myusername = $row['username'];

@@ -1,4 +1,18 @@
 @font-face {
+  font-family: 'AudiowideRegular';
+  src: url('../fonts/Audiowide-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IcelandRegular';
+  src: url('../fonts/Iceland-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'NunitoRegular';
   src: url('../fonts/Nunito-Regular.ttf') format('truetype');
   font-weight: normal;
@@ -83,7 +97,7 @@
 
 #banner-text
 {
-	font: 60px 'KeaniaOne-Regular';
+	font: 80px 'IcelandRegular';
 	opacity:0.8;
 }
 
