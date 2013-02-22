@@ -93,8 +93,8 @@ function SendNewPassword($email_id, $name, $password)
 function ValidateRegistrationSubmission()
     {
         $validator = new FormValidator();
-        $validator->addValidation("username","req","Please fill in Name");
-        $validator->addValidation("email","email","The input for Email should be a valid email value");
+        $validator->addValidation("username","req","Please fill in Username");
+        $validator->addValidation("email","email","The input should be a valid Email value");
         $validator->addValidation("email","req","Please fill in Email");
         $validator->addValidation("password","req","Please fill in Password");
         

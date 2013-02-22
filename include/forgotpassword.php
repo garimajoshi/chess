@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../stylesheets/style.css">
     <link rel="icon" href="../favicon.ico">
     <style>
-		body {background-image:url('./Chess1.jpg');}
+		body {background-image:url('./chess.jpg');}
 	</style>
 </head>
 <body>
