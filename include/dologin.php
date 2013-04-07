@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="../stylesheets/layout.css">
 	<link rel="stylesheet" href="../stylesheets/style.css">
 	<link rel="icon" href="../favicon.ico">
-    <style>
+    	<style>
 		body {background-image:url('./chess.jpg');}
 	</style>
   	
@@ -106,21 +106,21 @@
 			else
 			{
 				header( "refresh:15;url=../index.php" );	
-				$error = "<div id=\"register-login-text\"><p>Invalid/Expired confirmation code.</p><br /><p>This page will automatically redirect to the <a href=\"../index.php\" >mkti.in</a> in <span id=\"timer\">15 seconds<span></p></div>";
+				$error = "<div id=\"register-login-text\"><p>Invalid/Expired confirmation code.</p><br /><p>This page will automatically redirect to the <a href=\"../index.php\" >Home Page</a> in <span id=\"timer\">15 seconds<span></p></div>";
 				echo $error;
 			}
 		}
 		else
 		{
 			header( "refresh:15;url=../index.php" );
-			$error = "<div id=\"register-login-text\"><p>Invalid Page Requested</p><br /><p>This page will automatically redirect to the <a href=\"../index.php\" >mkti.in</a> in <span id=\"timer\">15 seconds<span></p></div>";
+			$error = "<div id=\"register-login-text\"><p>Invalid Page Requested</p><br /><p>This page will automatically redirect to the <a href=\"../index.php\" >Home Page</a> in <span id=\"timer\">15 seconds<span></p></div>";
 			echo $error;
 		}
 	}
 	else
 	{
 		header( "refresh:15;url=../index.php" );
-		$error = "<div id=\"register-login-text\"><p>Invalid Page Requested.</p><br /><p>This page will automatically redirect to the <a href=\"../index.php\" >mkti.in</a> in <span id=\"timer\">15 seconds<span></p></div>";
+		$error = "<div id=\"register-login-text\"><p>Invalid Page Requested.</p><br /><p>This page will automatically redirect to the <a href=\"../index.php\" >Home Page</a> in <span id=\"timer\">15 seconds<span></p></div>";
 		echo $error;
 	}
 ?>
