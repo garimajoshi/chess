@@ -63,7 +63,7 @@
     	<?php if ($confirmationSent) { ?>
     	<div id="forgot-prompt">A new password has been generated and sent to your mail. Please use it for logging in. Redirecting to <a href="./index.php">Home Page</a> in <div id="timer">15 seconds</div>.</div>
     	<?php } else if ($emailError) { ?>
-    	<div id="forgot-prompt">The email with the new password could not be sent. Contact <a href="mailto:admin@mkti.in">admin@mkti.in</a>.</div>
+    	<div id="forgot-prompt">The email with the new password could not be sent. Contact <a href="mailto:">email address</a>.</div>
     	<?php } else if ($emailNotFound) { ?>
     	<div id="forgot-prompt">This email id does not exist in the database. Please retry with the correct email id.</div>
     	<form action="forgotpassword.php" method="POST">
@@ -81,7 +81,7 @@
 
     <div id="container">
         <div id="header">
-                <div id="banner-text">Mukti '13</div>
+                <div id="banner-text">Online Chess</div>
         </div>
 
 
@@ -117,4 +117,3 @@
 
 </body>
 </html>
-
